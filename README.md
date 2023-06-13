@@ -9,15 +9,24 @@ I am a web development enthusiast, proficient in the following technologies:
 - JavaScript
 - Express.js
 - Node.js
+- Bootstrap
 - EJS
 - MVC
-- Bootstrap
+- NPM
 - MongoDB
 - MySQL
 - REST APIs
 - React.js
 
 Currently, I am actively honing my skills in React.js and working on projects to further improve my expertise in this area.
+
+## Summary Stats
+
+![Manjot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjjott&show_icons=true)
+
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manjjott&layout=compact)](https://github.com/manjjott)
 
 This repository contains a summary of my projects:
 
@@ -27,5 +36,3 @@ This repository contains a summary of my projects:
 - [Fitness Tracker](https://github.com/manjjott/Fitness-Tracker) 🏃‍♂️: A fitness tracking application.
 
 Feel free to explore these projects and connect with me on other platforms!
-
-
