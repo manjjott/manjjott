@@ -9,6 +9,8 @@ I am a web development enthusiast, proficient in the following technologies:
 - JavaScript
 - Express.js
 - Node.js
+- EJS
+- MVC
 - Bootstrap
 - MongoDB
 - MySQL
