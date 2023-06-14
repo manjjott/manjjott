@@ -31,6 +31,7 @@ Currently, I am actively honing my skills in React.js and working on projects to
 This repository contains a summary of my projects:
 
 - [Online Shop](https://github.com/manjjott/online-shop) 🛒: An e-commerce website project.
+- [Daily Todos API](https://github.com/manjjott/REST-api-Todo):clipboard: : An simple RESTful API to manage daily-todos.
 - [Blog Post MongoDB Node.js](https://github.com/manjjott/blog-post-mongodb-nodejs) 📚: A blog post management system using MongoDB and Node.js.
 - [DSCI-100-Project](https://github.com/manjjott/DSCI-100-Project) 📊: A project related to a data science course.
 - [Fitness Tracker](https://github.com/manjjott/Fitness-Tracker) 🏃‍♂️: A fitness tracking application.
