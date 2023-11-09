@@ -1,6 +1,6 @@
 # Manjot Singh 👋
 
-Welcome to my GitHub profile! I'm a third-year student at the University of British Columbia, Vancouver. I have a passion for weightlifting and basketball. 🏋️🏀
+Welcome to my GitHub profile! I'm a third-year student at the University of British Columbia, Vancouver.
 
 I am a web development enthusiast, proficient in the following technologies:
 
